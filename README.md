@@ -24,3 +24,5 @@ Backtracking Algorithm Steps taken:
 Time Complexity (Worst Case): $O\left(9^m\right)$
 
 There are other ways to approach this problem such as Rule-Based, Constraint, Crooks Algorithm and more.
+
+Note: The print method is over-the-top but I needed it to be neat..
