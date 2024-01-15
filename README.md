@@ -1,16 +1,5 @@
 # Sudoku Solver using Recursive Backtracking
 
-The Definition of a 9x9 Matrix where 0 represents an empty cell.
-
-$$X \in \mathbb{Z}_{0+}^{9 * 9}$$
-
-$$X=\left[\begin{array}{ccccc}
-x_{11} & x_{12} & x_{13} & \ldots & x_{19} \\
-x_{21} & x_{22} & x_{23} & \ldots & x_{29} \\
-\vdots & \vdots & \vdots & \ddots & \vdots \\
-x_{91} & x_{92} & x_{93} & \ldots & x_{99}
-\end{array}\right]$$
-
 Backtracking Algorithm Steps taken:
 
 1.  First we use the isEmpty method to locate an empty cell in the grid
